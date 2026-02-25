@@ -44,11 +44,10 @@ Desenvolvedora Full Stack com experiência em construir aplicações web do banc
 
 <div align="center">
 
-![Ana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Ana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anacanestraro&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anacanestraro&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SEU-USERNAME&theme=tokyonight&hide_border=true)
 
 </div>
 
